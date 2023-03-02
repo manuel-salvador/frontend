@@ -3,7 +3,7 @@ import { mount } from 'enzyme';
 import Academic from '../../components/Academic';
 import db from '../../../data.json';
 
-const data = db.data;
+const { data } = db;
 
 describe('<Academic />', () => {
   const academic = mount(<Academic academics={data.academic} />);

@@ -3,7 +3,7 @@ import { mount } from 'enzyme';
 import Skills from '../../components/Skills';
 import db from '../../../data.json';
 
-const data = db.data;
+const { data } = db;
 
 describe('<Skills />', () => {
   const skills = mount(<Skills skills={data.skills} />);

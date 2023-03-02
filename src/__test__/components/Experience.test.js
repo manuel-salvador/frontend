@@ -3,7 +3,7 @@ import { mount } from 'enzyme';
 import Experience from '../../components/Experience';
 import db from '../../../data.json';
 
-const data = db.data;
+const { data } = db;
 
 describe('<Experience />', () => {
   const experience = mount(<Experience experiences={data.experience} />);
