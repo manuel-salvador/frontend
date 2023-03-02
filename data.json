@@ -1,91 +1,182 @@
 {
   "data": {
-    "name": "Melissa Walsh",
-    "profession": "FrontEnd Developer",
-    "address": "Bogotá, Colombia.",
-    "email": "melissa@example.com",
-    "website": "https://example.com",
-    "phone": "3042034240",
-    "avatar": "https://arepa.s3.amazonaws.com/melissa.jpg",
-    "Profile": "Ignore the squirrels, you'll never catch them anyway hack, for floof tum, tickle bum, jellybean footies curly toes climb leg roll over and sun my belly, ",
+    "name": "Manuel Salvador",
+    "profession": "Full Stack Web Developer",
+    "address": "Buenos Aires, Argentina.",
+    "email": "manuel@example.com",
+    "website": "https://manuel-salvador.vercel.app/",
+    "phone": "+54 9 11 2233-4455",
+    "avatar": "https://i.imgur.com/YeUrzc3.jpg",
+    "profile": "I am a full-stack web developer, I transform ideas into scalable, secure and flexible products.\n\nI am passionate about learning about new frameworks, technologies, tools and best practices, to give the best of me and that my work is of quality\n\nI would love to continue developing in the IT area and gain experience that will serve me both professionally and personally.",
     "certificate": [
       {
-        "date": "Jan 2021",
-        "description": "Hack up furballs try to jump onto window and fall while scratching at wall. ",
+        "date": "Oct 2022",
+        "description": "Navigation flows with React Navigation, components with cross-platform native interfaces, connect emulators or real mobile devices with Expo, list management and APIs consumption, forms and storage",
         "institution": "Platzi",
-        "name": "FrontEnd Developer"
+        "name": "React Native Expo"
       },
       {
-        "date": "Jan 2021",
-        "description": "Scratch at the door then walk away wack the mini furry mouse",
+        "date": "Jul 2022",
+        "description": "Creating SPA with Next.js, deploying a webapp to production, developing APIs with Next.js, rendering applications on the server, SSR, i18n, auth",
         "institution": "Platzi",
-        "name": "Backend Developer"
+        "name": "Next.js"
+      },
+      {
+        "date": "Jun 2022",
+        "description": "I learned from 0 with 7 courses within the Platzi platform. How to start a React project, useState, useEffect, portal, Hooks, render patterns and composition, professional state management.",
+        "institution": "Platzi",
+        "name": "React.js basic to advanced"
+      },
+      {
+        "date": "Nov 2021",
+        "description": "HTML, CSS, JavaScript, Node js, React, Git, Scrum, MySQL, Squelize. API’s.\n\nActivities:\nGroup e-commerce integrative project.",
+        "institution": "Fundación Formar - Santander Río - Digital House",
+        "name": "Full Stack Web Development"
+      },
+      {
+        "date": "Nov 2020",
+        "description": "Websites of Tienda Nube. Instagram Shopping, Facebook company. E-mail marketing.",
+        "institution": "Semillero digital",
+        "name": "Web Site Creation and Management"
       }
     ],
-    "Academic": [
+    "academic": [
       {
-        "degree": "Atomic Master",
-        "description": " I’m so hungry i’m so hungry but ew not for that pelt around the house and up and down stairs chasing phantoms",
-        "endDate": "Jan 2017",
-        "institution": "MIT",
-        "startDate": "Jan 2018"
+        "degree": "React Native Expo",
+        "description": "Navigation flows with React Navigation, components with cross-platform native interfaces, connect emulators or real mobile devices with Expo, list management and APIs consumption, forms and storage",
+        "endDate": "Oct 2022",
+        "institution": "Platzi",
+        "startDate": "Aug 2022"
       },
       {
-        "degree": "Space Engineering",
-        "description": "Meow in empty rooms. Find empty spot in cupboard and sleep all day check cat door for ambush 10 times before coming in for hack. ",
-        "endDate": "Decenber 2015",
-        "institution": "Harvard",
-        "startDate": "Jan 2017"
+        "degree": "Next.js",
+        "description": "Creating SPA with Next.js, deploying a webapp to production, developing APIs with Next.js, rendering applications on the server, SSR, i18n, auth",
+        "endDate": "Jul 2022",
+        "institution": "Platzi",
+        "startDate": "Jun 2022"
+      },
+      {
+        "degree": "React.js basic to advanced",
+        "description": "I learned from 0 with 7 courses within the Platzi platform. How to start a React project, useState, useEffect, portal, Hooks, render patterns and composition, professional state management.",
+        "endDate": "Jun 2022",
+        "institution": "Platzi",
+        "startDate": "May 2022"
+      },
+      {
+        "degree": "Full Stack Web Development",
+        "description": "HTML, CSS, JavaScript, Node js, React, Git, Scrum, MySQL, Squelize. API’s.\n\nActivities:\nGroup e-commerce integrative project.",
+        "endDate": "Nov 2021",
+        "institution": "Fundación Formar - Santander Río - Digital House",
+        "startDate": "May 2021"
+      },
+      {
+        "degree": "Web Site Creation and Management",
+        "description": "Websites of Tienda Nube. Instagram Shopping, Facebook company. E-mail marketing.",
+        "endDate": "Nov 2020",
+        "institution": "Semillero digital",
+        "startDate": "Jun 2020"
       }
     ],
     "experience": [
       {
-        "company": "PugStar",
+        "jobTitle": "Developer",
+        "company": "Freelance",
+        "startDate": "Aug 2022",
         "endDate": "Present",
-        "jobDescription": "scratch the furniture. Good now the other hand, too lay on arms while you're using the keyboard.",
-        "jobTitle": "Frontend",
-        "startDate": "Jan 2020"
+        "jobDescription": "App development with React Native (Expo), webs with Next.js and MongoDB (as admin panel for the apps), apps/web pages with Next.js and Vite"
       },
       {
-        "company": "CatStore",
-        "endDate": "Jan 2016",
-        "jobDescription": "Meow in empty rooms lick left leg for ninety minutes, still dirty.",
-        "jobTitle": "Backend",
-        "startDate": "Sept 2019"
+        "jobTitle": "Web Developer",
+        "company": "Freelance",
+        "startDate": "Nov 2021",
+        "endDate": "Apr 2022",
+        "jobDescription": "ERP software management. Updating and editing images, making descriptions, updating prices. Creation of articles in the system."
+      },
+      {
+        "jobTitle": "Web Management",
+        "company": "Pawnia Petshop",
+        "startDate": "Dec 2020",
+        "endDate": "Nov 2021",
+        "jobDescription": "ERP software management. Updating and editing images, making descriptions, updating prices. Creation of articles in the system."
+      },
+      {
+        "jobTitle": "Assistant Accountant",
+        "company": "PwC",
+        "startDate": "Dec 2019",
+        "endDate": "Feb 2020",
+        "jobDescription": "External audit for client Banco Galicia:\nWorking daily with excel;\nUse of databases, using OnDemand and Sistcol systems.\nUse of Excel macros for the creation and preparation of letters."
       }
     ],
     "skills": [
       {
         "name": "HTML5",
-        "percentage": "75%"
+        "percentage": "90%"
       },
       {
         "name": "CSS",
-        "percentage": "25%"
+        "percentage": "70%"
       },
       {
         "name": "JavaScript",
-        "percentage": "55%"
+        "percentage": "60%"
       },
       {
         "name": "React",
         "percentage": "90%"
+      },
+      {
+        "name": "Next.js",
+        "percentage": "80%"
+      },
+      {
+        "name": "React Native Expo",
+        "percentage": "60%"
+      },
+      {
+        "name": "Node.js",
+        "percentage": "60%"
+      },
+      {
+        "name": "Express",
+        "percentage": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "percentage": "60%"
+      },
+      {
+        "name": "Mongoose",
+        "percentage": "50%"
+      },
+      {
+        "name": "MySQL",
+        "percentage": "40%"
+      },
+      {
+        "name": "Sequelize",
+        "percentage": "40%"
+      },
+      {
+        "name": "Git",
+        "percentage": "60%"
       }
     ],
     "interest": [
-      "javascript",
-      "develop",
-      "backend",
-      "frontend"
+      "Javascript",
+      "Develop",
+      "Full-Stack",
+      "Backend",
+      "Frontend",
+      "Blockchain"
     ],
     "languages": [
       {
         "name": "Spanish",
-        "percentage": "90%"
+        "percentage": "100%"
       },
       {
         "name": "English",
-        "percentage": "50%"
+        "percentage": "55%"
       }
     ],
     "social": [

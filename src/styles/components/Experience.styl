@@ -1,0 +1,30 @@
+.Experience
+  background-color: #bdf1d4
+  margin-top: 1rem
+  padding 1rem
+  
+.Experience-title
+  margin-bottom: 1rem
+
+.Experience-list
+  list-style: none
+  display: grid
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr) )
+  grid-gap: 1rem
+
+.Experience-item
+  border 1px solid black
+  padding: 1rem
+
+.Experience-item-header
+  display: flex
+  flex-direction: column
+  margin-bottom: 1rem
+  gap: .2rem
+  @media screen and (min-width: 600px)
+    flex-direction: row
+    justify-content: space-between
+
+
+.Experience-item-header-title
+  font-weight: 600

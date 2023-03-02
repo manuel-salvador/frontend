@@ -1,0 +1,25 @@
+.About
+  display: flex
+  flex-direction: column
+  justify-content: space-between
+  height: 100%
+  gap: 1rem
+  @media screen and (min-width: 600px)
+    gap: 0
+
+.About-info
+  display: flex
+  justify-content: center
+  flex-wrap: wrap
+  gap: 1rem
+  @media screen and (min-width: 600px)
+      align-items: center
+      justify-content: start
+
+.About-info > div
+  display: flex
+  flex-direction: column
+
+.About-info > div > a,
+.About-info > div > p
+  font-style: italic

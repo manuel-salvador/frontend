@@ -1,0 +1,29 @@
+.Header
+  display: flex
+  flex-direction: column
+  align-items: center
+  padding: 1rem 3rem
+  gap 2rem
+  border-bottom 1px solid black
+  min-height: 200px
+  @media screen and (min-width: 600px)
+    width 100%
+    flex-direction: row
+    align-items: start
+
+
+.Header-profile
+  width 160px
+  height 160px
+  border-radius 50%
+
+.Header-about
+  display: flex
+  flex-direction: column
+  text-align: center
+  height: 100%
+  @media screen and (min-width: 600px)
+    text-align: left
+
+.Header-title
+  margin-bottom: .3rem
